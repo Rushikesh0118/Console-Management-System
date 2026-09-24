@@ -75,11 +75,8 @@ Python assignment/
 ├── student_manager.py          # Data storage, validation, and CRUD logic
 ├── README.md                   # Project documentation
 ├── .gitignore                  # Files excluded from GitHub
-├── assets/
-│   └── application-screenshot.png
-├── data/                       # Created automatically for saved JSON data
-└── tests/
-    └── test_student_manager.py # Automated tests
+├── application-screenshot.png
+└── data/                       # Created automatically for saved JSON data
 ```
 
 ## Saved data
