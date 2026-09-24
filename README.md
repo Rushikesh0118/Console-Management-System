@@ -1,4 +1,3 @@
-## Created as a Python mini assignment project.
 # Multi-Management System
 
 A beginner-friendly Python mini project that combines three useful management systems in one application:
@@ -92,3 +91,5 @@ data/items.json
 
 These files hold local data and are excluded from GitHub by `.gitignore`, so personal or test records are not uploaded.
 
+
+## Created as a Python mini assignment project.
