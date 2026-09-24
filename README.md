@@ -10,7 +10,7 @@ The project can be used in two ways: through a menu-driven console program or th
 
 ## Application screenshot
 
-![Multi-Management System running application](assets/application-screenshot.png)
+![Multi-Management System running application](application-screenshot.png)
 
 ## Features
 
@@ -94,30 +94,5 @@ data/items.json
 
 These files hold local data and are excluded from GitHub by `.gitignore`, so personal or test records are not uploaded.
 
-## Testing
 
-To run the included automated tests, use:
-
-```bash
-python3 -m unittest discover -s tests -v
-```
-
-## Uploading to GitHub
-
-Upload these project files and folders:
-
-```text
-main.py
-gui.py
-student_manager.py
-README.md
-.gitignore
-assets/
-tests/
-```
-
-Do not upload the `data` folder or `__pycache__` folders.
-
-## Author
-
-Created as a Python mini assignment project.
+## Created as a Python mini assignment project.
