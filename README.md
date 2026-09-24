@@ -92,4 +92,6 @@ data/items.json
 These files hold local data and are excluded from GitHub by `.gitignore`, so personal or test records are not uploaded.
 
 
+
+
 ## Created as a Python mini assignment project.
